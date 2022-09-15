@@ -1,3 +1,6 @@
+#Maheen Hanif Ghaffar
+#Stocks 
+
 #Inputs:
 SharesPurchased = int(2000)
 PricePerShare = float(40.00)
