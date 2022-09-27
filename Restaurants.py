@@ -1,3 +1,6 @@
+#Maheen Hanif Ghaffar
+#Restaurants Project
+
 Vegetarian = input("Is anyone in your party a vegetarian? \n")
 Vegan = input("Is anyone in your party a vegan? \n")
 Gluten_Free = input("Is anyone in your party gluten free? \n")
